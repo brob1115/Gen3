@@ -1,0 +1,5 @@
+{
+  "codeium.detectProxy": false,
+  "codeium.enableCodeLens": false,
+  "git.allowForcePush": true
+}
